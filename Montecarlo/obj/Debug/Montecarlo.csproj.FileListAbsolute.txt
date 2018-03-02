@@ -1,0 +1,15 @@
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe.config
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\bin\Debug\Montecarlo.exe
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\bin\Debug\Montecarlo.pdb
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\Montecarlo.csprojResolveAssemblyReference.cache
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\MainWindow.g.cs
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\App.g.cs
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\Montecarlo_MarkupCompile.cache
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\Montecarlo_MarkupCompile.lref
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\MainWindow.baml
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\Montecarlo.g.resources
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\Montecarlo.Properties.Resources.resources
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\Montecarlo.csproj.GenerateResource.Cache
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\Montecarlo.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\Montecarlo.exe
+C:\Users\mario\source\repos\Montecarlo\Montecarlo\obj\Debug\Montecarlo.pdb
